@@ -4,7 +4,7 @@ role: Founder & Full-Stack Product Engineer
 company: WebReich Technologies
 flagship_product: Jannetaa
 impact:
-  - 19 Nagarsevak winners
+  - 19 Councilman winners
   - 2026 Akola Municipal Elections
 focus:
   - React.js
